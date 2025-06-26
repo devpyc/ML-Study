@@ -1,6 +1,6 @@
 # 혼자 공부하는 머신러닝+딥러닝
 
-## ENV Version
+## Version
 ```bash
 python=3.10.12
 matplotlib=3.8.0
